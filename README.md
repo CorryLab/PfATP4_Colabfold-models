@@ -10,7 +10,7 @@ The other was provided by the Ersilia Open Source Initiative, and is avaliable t
 
 
 ## Method
-The wildtype pfatp4 structure was generated using the [Colabfold notebook](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb).
+The wildtype pfatp4 structure was generated using the [Colabfold notebook](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb) (v 1.3.0).
 The UniprotKB sequence Q9U445 was trimmed of its first 115 residues and submitted to Colabfold for prediction of its structure. 
 The structure with the highest plddt (pfatp4_86da6_unrelaxed_rank_1_model_3.pdb) then underwent further refinement
 (raw json scores available in pfatp4_86da6_unrelaxed_rank_1_model_3_scores.json).
