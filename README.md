@@ -1,7 +1,7 @@
 # PfATP4 structure as predicted by Colabfold
 
 The purpose of these models was for docking of the anti-malarial compounds Cipargamin and SJ733, as 
-part of the study "A G358S mutation in the Plasmodium falciparum Na+ pump PfATP4 confers clinically-relevant resistance to cipargamin" (Available in Nature Comms. soon)
+part of the study "A G358S mutation in the Plasmodium falciparum Na+ pump PfATP4 confers clinically-relevant resistance to cipargamin"
 
 In this study, two Colabfold structural predictions were utilised. Our own, which was produced using the default Colabfold parameters and is available in this repository.
 The other was provided by the Ersilia Open Source Initiative, and is avaliable through [here](https://github.com/ersilia-os/osm-pfatp4-structure).
